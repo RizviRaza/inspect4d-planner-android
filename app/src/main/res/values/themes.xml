@@ -1,0 +1,8 @@
+<resources>
+    <!-- Light theme: easier to read in sunlight, and it makes the planner use its light colors -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
